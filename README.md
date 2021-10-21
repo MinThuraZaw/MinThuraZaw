@@ -1,5 +1,6 @@
 ### Hi there 👋
-## 🔭 I’m currently working on Data Engineering!
+### 🔭 I’m currently working on Data Engineering!
+### 📫 How to reach me: 
 
 
 <!--
