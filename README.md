@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Data Engineering!
 ### 📫 How to reach me: 
+:globe_with_meridians: erer
 
 
 <!--
