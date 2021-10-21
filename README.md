@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Data Engineering!
-### 📫 How to reach me: 
-:globe_with_meridians: erer
+### Reach me: 
+:globe_with_meridians: https://minthurazaw.me/
+:computer:
 
 
 <!--
