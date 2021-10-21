@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Data Engineering!
-### Reach me: 
+### About me: 
 :globe_with_meridians: https://minthurazaw.me/
-:computer:
+
+### Contact me:
+:computer: https://www.linkedin.com/in/min-thura-z-8929b8132/
 
 
 <!--
